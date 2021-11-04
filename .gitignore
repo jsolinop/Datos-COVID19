@@ -9,3 +9,4 @@ __pycache__
 *.yml
 /venv/
 /venv2/
+.Rproj.user
